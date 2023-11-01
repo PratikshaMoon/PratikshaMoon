@@ -1,6 +1,5 @@
 <h1 align="center">
-  <img src="./me.jpg" alt="Pratiksha Moon" width="200" />
-  <br />
+  
   Pratiksha Moon
 </h1>
 
